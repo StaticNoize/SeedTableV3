@@ -1,0 +1,22 @@
+{
+	"name": "",
+	"description": "",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 3,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamTestLivePublishedFileId": "",
+	"steamWorkshopFileIds":
+	{
+	},
+	"steamVisibility": 0,
+	"folderName": "SeedTableV3",
+	"revisionNumber": 1077374,
+	"snapshotId": 42944,
+	"fileSize": -2,
+	"minimumVersion": "Enhanced"
+}
